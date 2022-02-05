@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x85a8d3fd607e715adf090298c36dfa5ffbe9e6c9",
+  "SCAN_LINK": "https://explorer.fuse.io/token/0x85a8d3fd607e715adf090298c36dfa5ffbe9e6c9",
+  "NETWORK": {
+    "NAME": "Fuse Network",
+    "SYMBOL": "Fuse",
+    "ID": 122
+  },
+  "NFT_NAME": "NuMoGenesis",
+  "SYMBOL": "NUMOG",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 33000000000000000000,
+  "DISPLAY_COST": 33,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
